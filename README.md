@@ -1,2 +1,2 @@
-# assignment_3
-3rd assignment
+# Task 1:
+Calculate Factorial Using a Function 
